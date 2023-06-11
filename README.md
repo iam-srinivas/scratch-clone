@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# MIT Scratch project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Inspired from MIT Scratch
+
+Deployed at : https://delicate-cupcake-a7e355.netlify.app/
 
