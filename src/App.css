@@ -1,0 +1,7 @@
+.app-layout{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  height: 100vh;
+  padding-top: 1rem;
+}
