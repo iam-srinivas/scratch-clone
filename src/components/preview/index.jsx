@@ -168,18 +168,18 @@ const Preview = () => {
     setIsDragging(false);
   };
 
-  const moveSpriteLeft = () => {
-    setOffsetX((prevOffsetX) => prevOffsetX - 10
-    );
-  };
+  // const moveSpriteLeft = () => {
+  //   setOffsetX((prevOffsetX) => prevOffsetX - 10
+  //   );
+  // };
 
-  const moveSpriteRight = () => {
-    setOffsetX((prevOffsetX) => prevOffsetX + 10);
-  };
+  // const moveSpriteRight = () => {
+  //   setOffsetX((prevOffsetX) => prevOffsetX + 10);
+  // };
 
-  const rotateSprite = () => {
-    setRotation((prevRotation) => prevRotation + 45); // Increase the rotation angle by 45 degrees
-  };
+  // const rotateSprite = () => {
+  //   setRotation((prevRotation) => prevRotation + 45); // Increase the rotation angle by 45 degrees
+  // };
 
   const showToastMessage = () => {
     setShowToast(true);
